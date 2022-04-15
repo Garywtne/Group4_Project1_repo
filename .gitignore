@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore large files
+2020.xlsx
+2020.csv
+
 # C extensions
 *.so
 
