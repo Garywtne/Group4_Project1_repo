@@ -6,6 +6,7 @@ __pycache__/
 # ignore large files
 2020.xlsx
 2020.csv
+2019.csv
 
 # C extensions
 *.so
