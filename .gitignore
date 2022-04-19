@@ -2,11 +2,17 @@
 __pycache__/
 *.py[cod]
 *$py.class
+config.py
 
 # ignore large files
 2020.xlsx
 2020.csv
 2019.csv
+reduced_2019_test.xlsx
+clean_2019.csv
+clean_2019_1.csv
+clean_2019_4_csv
+
 
 # C extensions
 *.so
