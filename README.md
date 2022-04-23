@@ -31,11 +31,17 @@ We will then use this data to establish which areas are exposed to which crimes.
 
 The r value for the Birmingham scatterplot is lower than the r value for the total districts. This shows that there is an even weaker linear correlation and suggests that there would be more crime counts in areas with lower IMD scores. This plot also shows that for all areas regardless of IMD score there tends to be lower level of crimes.
 
+# Boxplot
+![Total LSOA crime in Birmingham 2019 boxplot](https://user-images.githubusercontent.com/85430216/164887787-9cb1b07e-5796-45f7-8a87-23c59962da68.png)
+
 ## Coventry scatterplot to show LSOA crime count Vs LSOA IMD score.
 
 ![image](https://user-images.githubusercontent.com/85430216/164882671-7a7c852b-581b-48c1-83d1-426725f5192d.png)
 
 The Coventry scatterplot shows that there are fewer crimes in areas with a LMD score but there are also a significant proportion of LSOAs that see higher number of crimes the higher the LMD score. The r value for this plot is very similar to the overall district plot which shows a weak postive linear correlation.
+
+# Boxplot
+![Total LSOA crime in Coventry 2019 boxplot](https://user-images.githubusercontent.com/85430216/164887807-082e1c77-c6dd-482d-a361-67b813d08a31.png)
 
 ## Solihull scatterplot to show LSOA crime count Vs LSOA IMD score.
 
@@ -43,11 +49,18 @@ The Coventry scatterplot shows that there are fewer crimes in areas with a LMD s
 
 Solihull has a r value similar to the district plot as a whole. This shows that there is a weak positive correlation between LSOA IMD score and crime rate. There are more LSOAs that have a lower LMD score and low crime rate levels.
 
+# Boxplot
+![Total LSOA crime in Solihull 2019 boxplot](https://user-images.githubusercontent.com/85430216/164887820-c0e91395-5333-4529-9c36-30fedd152125.png)
+
+
 ## Sandwell scatterplot to show LSOA crime count Vs LSOA IMD score.
 
 ![image](https://user-images.githubusercontent.com/85430216/164882746-417f6675-5790-4ad5-8520-3a2abfec7359.png)
 
 The Sandwell scatterplot shows that there aren't any LSOAs with an IMD score below 10. Despite this the r value shows the weakest correlation of all districts. This suggests that in Sandwell the crime count does not correlate with the IMD score and that crime occurs in all LSOAs - although this plot is similar to the other districts in that there are not many LSOAs that witness more than 300 counts of crime in 2019.
+
+# Boxplot
+
 
 ## Walsall scatterplot to show LSOA crime count Vs LSOA IMD score.
 
@@ -55,11 +68,20 @@ The Sandwell scatterplot shows that there aren't any LSOAs with an IMD score bel
 
 The Walsall r value shows the strongest positive liner correlation. This supports our hypothesis that the higher the IMD score the greater the crime count.
 
+# Boxplot
+![Total LSOA crime in Walsall 2019 boxplot](https://user-images.githubusercontent.com/85430216/164887841-363d7c6e-1836-42ec-a74a-c6995ea8997f.png)
+
+
 ## Wolverhampton scatterplot to show LSOA crime count Vs LSOA IMD score.
 
 ![image](https://user-images.githubusercontent.com/85430216/164882799-2a4aecf1-cd65-47a2-b94c-dcb6c348d79f.png)
 
 Again, the Wolverhampton scatterplot is similar to the overall district plot. It shows a weak positive correlation with the majority of LSOA witnessing less than 300 counts of crime in 2019.
+
+# Boxplot
+![Total LSOA crime in Wolverhampton 2019 boxplot](https://user-images.githubusercontent.com/85430216/164887864-2b3c308d-322d-4004-ad3b-f5d359b7190e.png)
+
+
 Overall, these scatterplots show that there is a weak positive correlation between LSOA Index of Multiple Deprivation score and crime count. Walsall has the strongest positive correlation and this supports our hypothesis. The other districts do not tend to have a significant majority of LSOAs that have crime counts higher than 300. Sandwell had the weakest linear correlation with higher counts of crime in all LSOAs. This highlights that not all areas with a high deprivation score have high crime counts, and vice versa, the areas with lower deprivation levels still see high levels of crime. 
 
 We will continue this analysis by looking into which areas have higher rates of different types of crime. This may allow us to understand why we have not seen a strong positive correlation as expected.
