@@ -220,3 +220,10 @@ Each district in the West Midlands has a similar crime trend. Violent and sexual
 Depending on which district and LSOA you are in you will witness different crimes, e.g. In Solihull you are more likely to witness vehicle crime or theft, whereas in Wolverhampton there are more violent offences. 
 
 Wolverhampton has the highest rate of violent and sexual offences in the West Midlands.
+
+# Implications 
+
+It would be interesting to see how the crime data in the west Midlands compared to other regions.
+
+This data might disprove certain stereotypes / discrimination for areas with higher deprivation levels. 
+
