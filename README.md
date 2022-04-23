@@ -7,15 +7,23 @@ Project 1, Group 4, Shannon, Nathan, Maxwell &amp; Gary
 
 The IMD score is created with 7 domains of deprivation: Income (22.5%), Employment (22.5%), Education (13.5%), Health (13.5%), Crime (9.3%), Barriers to Housing & Services (9.3%), and Living Environment (9.3%). We expect that because crime is one domain used to create the IMD score that the crime rates in the LLSOAs should correlate with the IMD score. 
 We also wanted to see if there are any outliers and what this would mean for those LLSOAs.
-We will then use this data to establish which areas are exposed to which crimes.
 
-![image](https://user-images.githubusercontent.com/85430216/164882569-c6e3e5be-85ca-4528-9f5d-85e3b8f5f475.png)
+![image (3)](https://user-images.githubusercontent.com/85430216/164886609-087303b6-401a-477e-8785-93b3a9e89aeb.png)
+
+![Crime Count all LSOA's VS IMD Score boxplot](https://user-images.githubusercontent.com/85430216/164886967-561b19d1-5d9a-4bf1-9eb0-2a8dc04d5a2b.png)
+
+![Crime Count all LSOA's VS IMD Score](https://user-images.githubusercontent.com/85430216/164887045-2ce8530b-b358-4f24-b63d-5c4c848a3998.png)
 
 A scatter plot was chosen as we are working with a large dataset. This plot highlights a few outliers which for the statistical analysis can be omitted for the sake of finding out whether there is a correlation between the LSOA crime count and LSOA IMD score. We have therefore reduced the y limits to 600 rather than over  4000 so that we can visualise any correlation and view the linear regression. 
+
+![Crime Count all LSOA's VS IMD Score excluding outliers](https://user-images.githubusercontent.com/85430216/164887035-59cba2eb-6401-4719-aee9-b9f3f1a864f2.png)
+
 The line of linear regression shows that there is a positive linear correlation but it is quite weak. 
 The scatterplot shows that our hypothesis may not be correct. Whilst the amount of crimes increase the higher IMD score this is not uniform. There are also high crime rates in LSOAs with low IMD scores. 
 We also recognise that crime is only one measurement used to create the IMD score.
 We also decided to see if there was any difference in correlation when plotting each district individually.
+
+We will then use this data to establish which areas are exposed to which crimes.
 
 ## Birmingham scatterplot to show LSOA crime count Vs LSOA IMD score
 
