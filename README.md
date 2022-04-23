@@ -55,7 +55,9 @@ We will continue this analysis by looking into which areas have higher rates of 
 
 # Research Question 2: Which district and Lower Layer Super Output Areas (LSOAs) have higher rates of crime?
 
-The district_crime_count_df presents an interesting pattern which we did not expect. Solihull has a lower district crime count overall but a higher index of multiple deprivation than districts such as Wolverhampton, Walsall, Dudley, Sandwell, and Coventry which have higher crime counts but lower IMD scores.
+![image](https://user-images.githubusercontent.com/85430216/164884192-2f272fd5-d394-48b0-ab95-99bc5cc5c2ea.png)
+
+At a district level it is apparaent that in 2019 the crime rate in Solihull, which has a significantly lower district IMD score was slightly lower. But, in Coventry and Dudley where the District IMD scores are very close Coventry'c Crime rate was higher  
 
 ![image](https://user-images.githubusercontent.com/85430216/164882952-b97d3e23-d632-47dc-bbfe-5278521026ed.png)
 
@@ -167,6 +169,8 @@ We have decided to focus on bike crime as the levels of bike crime are statistic
 ![image](https://user-images.githubusercontent.com/85430216/164883499-244bad89-3603-49b7-8207-5bbd37be307b.png)
 
 We found that bike thefts are mainly focused around city centres with addititional area of concentrated crimes in and immediatly around Universities and student accommodation.
+
+![image](https://user-images.githubusercontent.com/85430216/164884503-a24bb36c-a348-4c8f-907d-43b058860271.png)
 
 Compared to the other districts Coventry has a much higher level of bike thefts and Dudley an unusally low level. So it may be safer to park your bike in Dudley or there may simply be less bikes.
 
