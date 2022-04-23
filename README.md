@@ -172,10 +172,15 @@ Compared to the other districts Coventry has a much higher level of bike thefts 
 
 # Conclusions 
 
-•	There is a weak positive correlation between LSOA Index of Multiple Deprivation score and crime count. Walsall has the strongest positive correlation and this supports our hypothesis. The other districts do not tend to have a significant majority of LSOAs that have crime counts higher than 300. Sandwell had the weakest linear correlation with higher counts of crime in all LSOAs. This highlights that not all areas with a high deprivation score have high crime counts, and vice versa, the areas with lower deprivation levels still see high levels of crime. 
-•	A lower IMD score does not mean that there will be less crime and a higher IMD score does not mean that there will be a higher crime rate. 
-•	There are higher crime rates nearer the city centres, by universities, and near hospitals.
-•	Each district in the West Midlands has a similar crime trend. Violent and sexual offences make up the largest proportion of crime for all districts. And the other types of crime also follow similar patterns.
-•	Depending on which district and LSOA you are in you will witness different crimes, e.g. In Solihull you are more likely to witness vehicle crime or theft, whereas in Wolverhampton there are more violent offences. 
-•	Wolverhampton has the highest rate of violent and sexual offences in the West Midlands.
+There is a weak positive correlation between LSOA Index of Multiple Deprivation score and crime count. Walsall has the strongest positive correlation and this supports our hypothesis. The other districts do not tend to have a significant majority of LSOAs that have crime counts higher than 300. Sandwell had the weakest linear correlation with higher counts of crime in all LSOAs. This highlights that not all areas with a high deprivation score have high crime counts, and vice versa, the areas with lower deprivation levels still see high levels of crime. 
+
+A lower IMD score does not mean that there will be less crime and a higher IMD score does not mean that there will be a higher crime rate. 
+
+There are higher bike theft rates nearer the city centres, by universities, and near hospitals.
+
+Each district in the West Midlands has a similar crime trend. Violent and sexual offences make up the largest proportion of crime for all districts. And the other types of crime also follow similar patterns.
+
+Depending on which district and LSOA you are in you will witness different crimes, e.g. In Solihull you are more likely to witness vehicle crime or theft, whereas in Wolverhampton there are more violent offences. 
+
+Wolverhampton has the highest rate of violent and sexual offences in the West Midlands.
 
